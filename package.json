@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachitAgr13/Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachitAgr13/Javascript/issues"
+  },
+  "homepage": "https://github.com/RachitAgr13/Javascript#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
